@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url('../images/bg-mobile.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+}
+
+// Colors
+
+// Primary
+
+$gradient01: hsl(6, 100%, 80%);
+$gradient02: hsl(335, 100%, 65%);
+
+
+// Neutral
+
+$paleBlue: hsl(243, 100%, 93%);
+$grayishBlue: hsl(229, 7%, 55%);
+$darkBlue: hsl(228, 56%, 26%);
+$veryDarkBlue: hsl(229, 57%, 11%);
+$white : #ffffff;
+
+@import "./card"
