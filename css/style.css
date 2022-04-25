@@ -246,6 +246,7 @@ footer {
   .arrow {
     position: absolute;
     display: block;
+    <!-- Arrow -->
     margin-top: 0px;
     margin-left: 105px;
     width: 0;
