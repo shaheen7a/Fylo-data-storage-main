@@ -1,7 +1,9 @@
 # Frontend Mentor - Fylo data storage component solution
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for the Clipboard landing page coding challenge](./images/desktop-preview.jpg)
 
+## Welcome! 👋
+Thanks for checking out this front-end coding challenge.
 ## Overview
 
 ### The challenge
@@ -15,8 +17,9 @@ Users should be able to:
 
 - Solution URL: [GitHub](https://github.com/Shaheen121/Fylo-data-storage-main.git)
 
-- Live URL : ()
+- Live Site URL: [Live Site](https://Shaheen121.github.io/Fylo-data-storage-main/)
 
+## My process
 ### Built with
 
 - HTML5
@@ -24,8 +27,8 @@ Users should be able to:
 
 ## Author
 
-- Github - (https://github.com/Shaheen121)
-- Frontend Mentor - (https://www.frontendmentor.io/profile/Shaheen121)
+- Frontend Mentor - [@shaheen121](https://www.frontendmentor.io/profile/Shaheen121)
+- Facebook - [@aoushaheen7](https://www.facebook.com/shaheen7tl/)
 
-
-Thankyou
+By me 🚀🚀🚀
+Aous Shaheen
